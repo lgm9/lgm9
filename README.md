@@ -10,7 +10,7 @@ My research focuses on NPU virtualization, with a particular interest in spatial
 
 ## Publications & Posters
 - **SwiftNPU: Scalable Shape-Flexible Allocation for Inter-Core Connected NPUs**  
-  Workshop paper accepted at **EuroMLSys 2026**
+  Workshop paper accepted at **EuroMLSys 2026**  
   [Source Repository](https://github.com/lgm9/SwiftNPU)
 
 - **Dynamic Dispatcher Assignment With Flat-Combining**  
