@@ -14,11 +14,10 @@ My research focuses on NPU virtualization, with a particular interest in spatial
 - Computer architecture
 - Networked system
   
-## Publications
+## Publications & Posters
 - **SwiftNPU: Scalable Shape-Flexible Allocation for Inter-Core Connected NPUs**  
   Workshop paper accepted at **EuroMLSys 2026**
 
-## Posters
 - **Dynamic Dispatcher Assignment With Flat-Combining**  
   Poster accepted at **EuroSys 2025**  
   [Extended Abstract](https://2025.eurosys.org/posters/final/eurosys25posters-final163.pdf)
@@ -29,6 +28,6 @@ My research focuses on NPU virtualization, with a particular interest in spatial
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/gangmin-lee-308170371/)
 - [Google Scholar](https://scholar.google.com/citations?user=80Tg71sAAAAJ)
-- 
+  
 ## Contact
 Email: [lgm9@kaist.ac.kr](mailto:lgm9@kaist.ac.kr)
