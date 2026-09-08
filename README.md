@@ -1,7 +1,7 @@
 # Hi, I'm Gangmin Lee 👋
 
 I'm a Ph.D. student in Computer Science at KAIST.
-My research focuses on NPU virtualization, with a particular interest in spatial allocation for 2D mesh-connected NPUs and ML systems.
+My research focuses on NPU architecture, with a particular interest in spatial allocation for 2D mesh-connected NPUs and ML systems.
 
 ## Education
 - **Gyeonggi Science High School** (2017.03 - 2020.02)
@@ -10,6 +10,10 @@ My research focuses on NPU virtualization, with a particular interest in spatial
 - **Ph.D. in Computer Science, KAIST** (2026.09 - )
 
 ## Publications & Posters
+-**FlowIVF: Restructuring ANN Search for Spatial Dataflow Accelerators** (Second Author)
+  Workshop paper accepted at **RETRIEVE 2026**
+  
+
 - **SwiftNPU: Scalable Shape-Flexible Allocation for Inter-Core Connected NPUs**  
   Workshop paper accepted at **EuroMLSys 2026**  
   [Paper Link](https://dl.acm.org/doi/abs/10.1145/3805621.3807614)  
