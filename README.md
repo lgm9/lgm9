@@ -11,17 +11,17 @@ My research focuses on NPU architecture, with a particular interest in spatial a
 
 ## Publications & Posters
 - **FlowIVF: Restructuring ANN Search for Spatial Dataflow Accelerators**
-  Seongkyu Lee, **Gangmin Lee**, Sue Moon, and Gyuyeong Kim
+  Seongkyu Lee, **Gangmin Lee**, Sue Moon, and Gyuyeong Kim  
   Workshop paper accepted at **RETRIEVE 2026**
 
 - **SwiftNPU: Scalable Shape-Flexible Allocation for Inter-Core Connected NPUs**  
-  **Gangmin Lee**, Wonsup Yoon, and Sue Moon
+  **Gangmin Lee**, Wonsup Yoon, and Sue Moon  
   Workshop paper accepted at **EuroMLSys 2026**  
   [Paper Link](https://dl.acm.org/doi/abs/10.1145/3805621.3807614)  
   [Source Repository](https://github.com/lgm9/SwiftNPU)
 
 - **Dynamic Dispatcher Assignment With Flat-Combining**  
-  **Gangmin Lee**, Wonsup Yoon, and Sue Moon
+  **Gangmin Lee**, Wonsup Yoon, and Sue Moon  
   Poster accepted at **EuroSys 2025**  
   [Extended Abstract](https://2025.eurosys.org/posters/final/eurosys25posters-final163.pdf)
 
