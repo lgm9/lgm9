@@ -10,7 +10,7 @@ My research focuses on NPU architecture, with a particular interest in spatial a
 - **Ph.D. in Computer Science, KAIST** (2026.09 - )
 
 ## Publications & Posters
--**FlowIVF: Restructuring ANN Search for Spatial Dataflow Accelerators** (Second Author)
+- **FlowIVF: Restructuring ANN Search for Spatial Dataflow Accelerators** (Second Author)
   Workshop paper accepted at **RETRIEVE 2026**
   
 
